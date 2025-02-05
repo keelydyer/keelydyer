@@ -24,7 +24,7 @@ Graduating in May 2025
 | PRINCE2 qualified Project Manager  | Data & SQL |
 | Charity Website Officer (Squarespace & WordPress) | Agile Methodology |
 | Codes HTML, CSS, Bootstrap, Javascript | Building end-to-end systems, inc, TDD |
-| BA Music & Classics | Building APIs |
+| BA Music & Classics | Interating with APIs |
 | MA Classics | Complex data structures & Algorithm design|
 
 
