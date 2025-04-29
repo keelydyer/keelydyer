@@ -5,7 +5,7 @@ I'm a member of the Code First Girls Spring 2025 CFGdegree cohort, studying Soft
 |😄 My Background | 🌱 I am learning |
 | :------------- | :------------- |
 | Equality & Inclusion Specialist | Python, Python Modules & Libraries|
-| PRINCE2 qualified Project Manager  | Git and Github (collaboration and VC) |
+| PRINCE2 qualified Project Manager  | Git and Github (collaboration and version control) |
 | Charity Website Officer (Squarespace & WordPress) | Data & SQL |
 | Codes HTML, CSS, Bootstrap, Javascript | Agile Methodology, Jira, Pair-Programming, Modular Programming, Interative Development |
 | BA Music & Classics | Building end-to-end systems, inc, TDD |
