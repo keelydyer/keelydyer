@@ -18,4 +18,4 @@ Graduating in May 2025 - See you on the other side....
 
 > “If one girl with an education can change the world, just imagine what 130 million can do.”
 
-- Malala Yousafzai
+-- Malala Yousafzai
